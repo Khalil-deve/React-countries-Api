@@ -1,6 +1,6 @@
 // import countryData from './countryData'; // Commented out as it's not being used
 import CountryCard from './CountryCard'; // Importing the CountryCard component to display individual country details
-import CountryContainerShimmer from './countryContainerShimmer'; // Importing shimmer effect for loading state
+import CountryContainerShimmer from './CountryContainerShimmer'; // Importing shimmer effect for loading state
 import { useEffect, useState } from 'react'; // Importing React hooks for state and side effects
 
 export default function CountryContainer({ query }) {
