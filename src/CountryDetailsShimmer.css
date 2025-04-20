@@ -1,0 +1,19 @@
+.shimmer-detail-card{
+    width: 40%;
+    height: 250px;
+    background-color: #ccc;
+}
+
+.shimmer-text h1{
+    height: 40px;
+    width: 300px;
+    background-color: #ccc;
+    border-radius: 5px;
+}
+
+.shimmer-text p{
+    height: 25px;
+    width: 200px;
+    background-color: #ccc;
+    border-radius: 5px;
+}
