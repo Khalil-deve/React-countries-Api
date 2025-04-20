@@ -89,7 +89,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[View it on Netlify](https://your-netlify-site.netlify.app) <!-- Replace with your actual link -->
+[View it on Netlify](https://countriesapi-proj.netlify.app/) <!-- Replace with your actual link -->
 
 
 
