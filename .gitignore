@@ -8,7 +8,7 @@ pnpm-debug.log*     # Ignore pnpm debug log files
 lerna-debug.log*    # Ignore Lerna debug log files
 
 # Dependency directories
-node_modules        # Ignore node_modules directory
+node_modules/        # Ignore node_modules directory
 dist                # Ignore build output directory
 dist-ssr            # Ignore server-side rendered build output
 *.local             # Ignore local environment files
